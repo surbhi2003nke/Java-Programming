@@ -16,4 +16,4 @@ The assignments and questions are provided by Sunita Tiwari Ma'am.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/surbhi2003nke/Java-Programming.git
